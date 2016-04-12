@@ -1,7 +1,13 @@
 /*
-*= require_tree 
+*= require_tree
 *= require_self
 */
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+  background: url("/assets/mac_code_opacity30.jpg") no-repeat;
+  background-size: cover;
+
+}
